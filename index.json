@@ -272,5 +272,16 @@
         "domains": ["", "", ""],
         "link": "https://www.youtube.com/watch?v=SuLiu5AK9Ps"
 
+},
+
+]{ 
+        "id": 29,
+        "courseTopic": "C Programming",
+        "courseTitle": "C Programming Tutorials",
+        "providedBy": "codedamn",
+        "platform":"Youtube",
+        "duration": "1 day",
+        "domains": ["", "", ""],
+        "link": "https://www.youtube.com/playlist?list=PLYxzS__5yYQlyygnJsrNFU4-8iYQuynhj"
+
 }
-]
